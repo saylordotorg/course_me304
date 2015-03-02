@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME304: Engineering Communication"
+course_description: "An introductory study of communication among engineers, with particular attention to the rules of grammar and punctuation, the typical formats for letters, reports, and proposals, tools for collaborative writing, plagiarism and intellectual property, and writing a laboratory report."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Specific Genres and Design** <span id="4"></span> 
 *This unit presents the details of formatting, organizing, and using
 several written communication genres.  You need not memorize all of

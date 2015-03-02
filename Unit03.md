@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME304: Engineering Communication"
+course_description: "An introductory study of communication among engineers, with particular attention to the rules of grammar and punctuation, the typical formats for letters, reports, and proposals, tools for collaborative writing, plagiarism and intellectual property, and writing a laboratory report."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Collaborative Writing** <span id="3"></span> 
 *Communication and collaboration go hand-in-hand.  We begin this unit
 with a brief discussion of the process of collaborative writing; this

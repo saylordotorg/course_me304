@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME304: Engineering Communication"
+course_description: "An introductory study of communication among engineers, with particular attention to the rules of grammar and punctuation, the typical formats for letters, reports, and proposals, tools for collaborative writing, plagiarism and intellectual property, and writing a laboratory report."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Writing a Laboratory Report** <span id="5"></span> 
 *In this unit you shall use the data and experience gained in Exercise
 8.6 of the Saylor Foundation’s* *ME301: Measurement & Experimentation

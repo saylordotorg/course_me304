@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ME304: Engineering Communication"
+course_description: "An introductory study of communication among engineers, with particular attention to the rules of grammar and punctuation, the typical formats for letters, reports, and proposals, tools for collaborative writing, plagiarism and intellectual property, and writing a laboratory report."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Rules or Guidelines?** <span id="2"></span> 
 *This unit presents some basic rules for communication.  Adherence to
 these rules is not meant to stifle communication, but rather to
