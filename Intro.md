@@ -153,4 +153,11 @@ decide to complete Subunit 1.1-1.3 (a total of 2 hours) on Monday night,
 Subunit 1.4 (a total of 4 hours) on Tuesday night and Subunit 1.5 and
 1.6 (a total of 3 hours) on Wednesday night, etc.  
     
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/me304/Unit01/)
+- [Unit 2](https://legacy.saylor.org/me304/Unit02/)
+- [Unit 3](https://legacy.saylor.org/me304/Unit03/)
+- [Unit 4](https://legacy.saylor.org/me304/Unit04/)
+- [Unit 5](https://legacy.saylor.org/me304/Unit05/)
+- [Unit 6](https://legacy.saylor.org/me304/Unit06/)
