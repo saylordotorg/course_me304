@@ -171,3 +171,4 @@ Subunit 1.4 (a total of 4 hours) on Tuesday night and Subunit 1.5 and
 - [Unit 4](https://legacy.saylor.org/me304/Unit04/)
 - [Unit 5](https://legacy.saylor.org/me304/Unit05/)
 - [Unit 6](https://legacy.saylor.org/me304/Unit06/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/ME/ME304/ME304-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/ME/ME304/ME304-FinalExam-Answers.html)
