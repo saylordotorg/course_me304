@@ -76,7 +76,7 @@ Upon successful completion of this unit, the student will be able to:
     Writing?”**
 
     Link: Andrea Beaudin’s notes on “Britton’s [*What Is Technical
-    Writing?*](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-1.2.pdf)”
+    Writing?*](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-1.2.pdf)”
     (PDF)  
         
      Instructions: This link provides one reader’s condensed notes on a
@@ -137,7 +137,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Pennsylvania State University: Leonhard Center’s “[Assessing
     the
-    Audience”](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-1.41.pdf)
+    Audience”](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-1.41.pdf)
     (PDF)  
         
      Instructions: Read the first section “Assessing the Audience.” 
@@ -189,7 +189,7 @@ Context?** <span id="1.6"></span> 
 
     Link: Pennsylvania State University: Leonhard Center’s “[Writing
     Guidelines for Engineering and Science
-    Students](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-1.6.pdf)”
+    Students](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-1.6.pdf)”
     (PDF)  
         
      Instructions: Read the list of technical writing genres or document

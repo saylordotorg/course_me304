@@ -54,7 +54,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Texas A&M; Writing Center’s “Brainstorming”**
 
     Link: Texas A&M Writing Center’s
-    “[Brainstorming](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-3.1.2.pdf)”
+    “[Brainstorming](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-3.1.2.pdf)”
     (PDF)  
         
      Instructions: Read the webpage in its entirety.  The prewriting
@@ -77,7 +77,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Texas A&M; Writing Center’s “Revising and Proofreading”**
 
     Link: Texas A&M Writing Center’s “[Revising and
-    Proofreading](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-3.1.3.pdf)”
+    Proofreading](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-3.1.3.pdf)”
     (PDF)  
         
      Instructions: Read the webpage.  Find three ways in which the text
@@ -95,7 +95,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Wikipedia: “Collaborative Writing”**
 
     Link: Wikipedia: “[Collaborative
-    Writing](http://www.saylor.org/site/wp-content/uploads/2011/04/Collaborative-writing.pdf)”
+    Writing](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Collaborative-writing.pdf)”
     (PDF)  
                    
      Instructions: Please read the entire article.  
@@ -124,7 +124,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Wikipedia: “Wiki”**
 
     Link: Wikipedia:
-    “[Wiki](http://www.saylor.org/site/wp-content/uploads/2011/04/Wiki.pdf)”
+    “[Wiki](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Wiki.pdf)”
     (PDF)  
         
      Instructions: Read this article in its entirety.  Pay attention to
@@ -141,7 +141,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: MediaWiki’s “How Does MediaWiki Work?”**
 
     Link: MediaWiki’s “[How Does MediaWiki
-    Work?](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-3.2.2.pdf)”
+    Work?](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-3.2.2.pdf)”
     (PDF)  
         
      Instructions: Read this webpage and subordinate links in order to
