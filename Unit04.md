@@ -110,7 +110,7 @@ Upon successful completion of this unit, the student will be able to:
     Memo Format”**
 
     Link: Pennsylvania State University: Leonhard Center’s “[Sample Memo
-    Format](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-1.6.pdf)” (PDF)  
+    Format](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-1.6.pdf)” (PDF)  
         
      Instructions: Read the text in its entirety.  For practice, then
     draft a memo to an engineering service firm describing a fouling
@@ -146,7 +146,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Pennsylvania State University: Leonhard Center’s “[Sample
     Letter
-    Format](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-1.6.pdf)” (PDF)  
+    Format](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-1.6.pdf)” (PDF)  
         
      Instructions: Read the format and compose a letter conforming to
     that format.  The letter should serve as a cover letter for your
@@ -195,7 +195,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Texas A&M; Writing Center’s “Executive Summary”**
 
     Link: Texas A&M Writing Center’s “[Executive
-    Summary](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-4.1.4.pdf)”
+    Summary](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-4.1.4.pdf)”
     (PDF)  
       
      Instructions: Read the entire webpage.  How does a summary differ
@@ -213,7 +213,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Texas A&M; Writing Center’s “Proposals”**
 
     Link: Texas A&M Writing Center’s
-    “[Proposals](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-4.1.5.pdf)”
+    “[Proposals](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-4.1.5.pdf)”
     (PDF)  
         
      Instructions: Read the webpage in its entirety.  What is the
@@ -230,7 +230,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Texas A&M; Writing Center’s “Progress Reports”**
 
     Link: Texas A&M Writing Center’s “[Progress
-    Reports](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-4.1.6.pdf)”
+    Reports](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-4.1.6.pdf)”
     (PDF)  
         
      Instructions: Read the webpage in its entirety, and consider the
@@ -249,7 +249,7 @@ Upon successful completion of this unit, the student will be able to:
 
     Link: Pennsylvania State University and Virginia Tech University’s
     “[Laboratory
-    Reports](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-1.6.pdf)”
+    Reports](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-1.6.pdf)”
     (PDF)  
         
      Instructions: Read the webpage and the embedded links to sample
@@ -394,7 +394,7 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: Texas A&M; Writing Center’s “Research Posters”**
 
     Link: Texas A&M Writing Center’s “[Research
-    Posters](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-4.3.2.pdf)” (PDF)  
+    Posters](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-4.3.2.pdf)” (PDF)  
         
      Instructions: Read the (1) page. Poster sessions are probably an
     evolving medium of sharing technical information, but the elements

@@ -59,7 +59,7 @@ id="2.1"></span> 
 -   **Reading: Texas A&M; Writing Center’s “Common Grammar Errors”**
 
     Link: Texas A&M Writing Center’s “[Common Grammar
-    Errors](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-2.1.pdf)”
+    Errors](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-2.1.pdf)”
     (PDF)  
         
      Instructions: Read the webpage in its entirety.  Most of the errors
@@ -265,7 +265,7 @@ id="2.1.4"></span> 
 -   **Reading: Texas A&M; Writing Center’s “Paragraph Construction”**
 
     Link: Texas A&M Writing Center’s “[Paragraph
-    Construction](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-2.4.1.pdf)”
+    Construction](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-2.4.1.pdf)”
     (PDF)  
         
      Instructions: Read the entire webpage.  Name five different ways in
@@ -284,7 +284,7 @@ id="2.1.4"></span> 
     (Good) Abstracts”**
 
     Link: Texas A&M Writing Center’s “[Introduction to Writing (Good)
-    Abstracts](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-2.4.2.pdf)”
+    Abstracts](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-2.4.2.pdf)”
     (PDF, YouTube)  
         
      Instructions: View the video (17 minutes) and/or read the
@@ -338,7 +338,7 @@ id="2.4.5"></span> 
 
     Link: WikiBooks: “[Professional and Technical Writing/Design/Back
     Matter”: “Back Matter: Appendices, Glossaries, and
-    More](http://www.saylor.org/site/wp-content/uploads/2011/04/Back-Matter.pdf)”
+    More](https://resources.saylor.org/archived/wp-content/uploads/2011/04/Back-Matter.pdf)”
     (PDF)  
         
      Instructions: Read the webpage in order to understand when to
@@ -356,7 +356,7 @@ id="2.4.5"></span> 
 -   **Reading: United States Copyright Office’s “Copyright Basics”**
 
     Link: United States Copyright Office’s “[Copyright
-    Basics](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-2.5.1.pdf)”
+    Basics](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-2.5.1.pdf)”
     (PDF)  
         
      Instructions: Click on the hyperlink “Copyright Basics” to download
@@ -371,7 +371,7 @@ id="2.4.5"></span> 
 -   **Reading: United States Copyright Office’s “Fair Use”**
 
     Link:  United States Copyright Office’s “[Fair
-    Use](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-2.5.2.1.pdf)”
+    Use](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-2.5.2.1.pdf)”
     (PDF)
 
      
@@ -388,7 +388,7 @@ id="2.4.5"></span> 
     Presentations”**
 
     Link: Texas A&M Writing Center’s “[Using Quotations in
-    Presentations](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-2.5.2.2.pdf)”
+    Presentations](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-2.5.2.2.pdf)”
     (PDF)
 
      

@@ -71,7 +71,7 @@ id="5.1.1"></span> 
     “Laboratory Reports”**
 
     Link: Pennsylvania State University: Leonhard Center’s “[Laboratory
-    Reports](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-1.6.pdf)”
+    Reports](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-1.6.pdf)”
     (PDF)  
         
      Instructions: Follow the instructions in the link to prepare
@@ -106,7 +106,7 @@ review.  Carefully hone an abstract containing 150-200 words.*
 -   **Reading: Texas A&M; Writing Center’s “Revising and Proofreading”**
 
     Link: Texas A&M Writing Center’s “[Revising and
-    Proofreading](http://www.saylor.org/site/wp-content/uploads/2011/07/ME304-5.3.pdf)”
+    Proofreading](https://resources.saylor.org/archived/wp-content/uploads/2011/07/ME304-5.3.pdf)”
     (PDF)  
         
      Instructions: Follow the checklist given on the webpage to
